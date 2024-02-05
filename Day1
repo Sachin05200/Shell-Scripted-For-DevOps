@@ -1,1 +1,5 @@
+#!/bin/bash
 
+echo "Ram Ram Bahilogo"
+
+echo "Hope all are good ! Now Let Start Shell Scripting"
