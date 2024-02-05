@@ -1,5 +1,26 @@
 #!/bin/bash
 
+#1. Introduction to Shell
+
+#A shell script is a text file that contains a sequence of commands for a UNIX-based operating system. It is called a shell script because it combines a sequence of commands, that would otherwise have to be typed into the keyboard one at a time, into a single script. The shell is the operating system's command-line interface (CLI) and interpreter for the set of commands that are used to communicate with the system.
+
+#2. Environment Setup
+
+#Step1 : BASH{Bourne Again SHell} and we can write a bash with .sh extension and The first line of the file is called Shebang or a "bang" line. It is nothing but the absolute path to the Bash Interpreter.
+
+#Step2 : Linux Machine [AWS , Virtual Machine VMware]
+
+#Step3 : Connect Linux Machine to the --SSH method
+
+#Step3 : Text Editor [vi, vim, gedit, nano]
+
+#Step4 : Set Permission {File is executable}
+
+
+
+
 echo "Ram Ram Bahilogo"
 
 echo "Hope all are good ! Now Let Start Shell Scripting"
+
+echo "Are you Ready"
